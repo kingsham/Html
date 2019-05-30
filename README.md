@@ -1,3 +1,6 @@
-# Html
+# Tip Calculator
 
-This is my Html, Javascript based projects.
+💲💲💲
+
+Calculator that determines the tip amount based on customer service 
+
